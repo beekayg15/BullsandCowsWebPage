@@ -1,0 +1,84 @@
+body{
+	background: url("../images/Starlit Valley.png");
+	height: 100%;	
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: "Comic Sans MS";
+	text-align: center;
+}
+header{
+	background: #00000063;
+	color: #FFFFFF;
+	padding: 2%;
+}
+a{
+	color: #000000;
+	display: inline-block;
+	margin-left: 4%;
+	margin-right: 4%;
+	text-decoration: none;
+}
+a:hover{
+	color: #FFFFFF;
+}
+button{
+	font-family: "Comic Sans MS";
+	background: #00000063;
+	color: #000000;
+	border-color: #FFFFFF;
+	display: inline-block;
+	height: 8vh;
+	width: 25%;
+	margin: 3%;
+	border-radius: 10px;
+	font-size: 110%;
+	border-width: 0px;
+}
+button:hover{
+	background: #FFFFFF;
+	color: #00000063;
+}
+table{
+	background: #00000063;
+	display: inline-block;
+	margin: 0 5%;
+	border: solid;
+	border-width: 0px;
+	padding: 15px;
+	border-radius: 10px;
+}
+th{
+	color: #FFFFFF;
+}
+td{
+	color: #00000063;
+}
+main{
+	display: none;
+}
+#win{
+	display: none;
+	margin-top: 5%;
+}
+details{
+	background: #00000063;
+	padding: 5px;
+	color: #000000;
+	border: solid;
+	border-width: 0px;
+	border-radius: 10px;
+}
+summary{
+	color: #FFFFFF;
+}
+summary:hover{
+	color: #00000063;
+}
+p{
+	text-align: justify;
+}
+#start{
+	margin: 5%;
+	display: block;
+}

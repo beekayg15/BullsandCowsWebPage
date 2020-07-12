@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Instructions-Bulls and Cows</title>
+	<link rel="stylesheet" type="text/css" href="css/BullsandCows.css">
+</head>
+<body>
+<header><h1>Bulls and Cows Instructions</h1></header>
+<main style="margin: 0 20%;">
+	<br>
+	<details>
+		<summary><h3 style="display: inline;">Instructions</h3></summary>
+		<br>
+		<p>Bulls and Cows in an ancient code breaking mind game in which the player is required to 
+		identify a four digit secret number by making guess. Each guess made by the player in evaluated
+		and the number bulls and cows are displayed. By analysing these informations the player would be able to
+		predict the correct code after a few attempts. Each digit of the secret code is a number between 0 and 9(inclusive)
+		and all digits are discrete.</p>
+		<p style="text-align: center;">Have Funn!!!</p>
+	</details>
+	<br>
+	<details>
+		<summary><h3 style="display: inline;">What are Bulls?</h3></summary>
+		<p>A Bull represents that a digit you have entered in present in the exact same position in the secret code.
+		So the number of bulls say the number of digits that are present in the secret code and also at the exact 
+		same position. For example,</p>
+		<p style="text-align: center;">5146 - Actual Code
+			<br>
+		2186 - Guessed Code</p>
+		<p>The number of bulls in the above guess is two as digits 1 and 6 are there in the secret code and are also in the same position</p>
+	</details>
+	<br>
+	<details>
+		<summary><h3 style="display: inline;">What are Cows?</h3></summary>
+		<p>A Cows represents that a digit you have entered is present in the secret code but not in the estimated position.
+		So the number of cows say the number of digits that are present in the secret code but not in the position that you have 
+		guessed. For example,</p>
+		<p style="text-align: center;">5146 - Actual Code
+			<br>
+		1594 - Guessed Code</p>
+		<p>The number of cows in the above guess is two as digits 5 and 4 are there in the secret code but not in the expected position.</p>
+		<p>Note: In the above example there is a bull too. Also a digit can never be bull and a cow at the same time</p>
+	</details>
+</main>
+</body>
+</html>
