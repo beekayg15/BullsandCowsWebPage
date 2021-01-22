@@ -28,12 +28,15 @@ The game contains two web pages namely, _Home (index.html)_ and _Instruction (Bu
   - The **number of digits** in the key varies with the difficulty level.
   - It also provides features to **restart** the game and view the **instructions** at any point of time.
   - The page enables the user to take a guess and returns their closeness to the actual solution.
+  
 - **Instructions** :
   - The page displays the **basic instructions** of the game, grouped into three categories.
   - It also provides a brief **description** of the game.
+  
 - **Graphical Features** :
   - The project contains multiple graphical content ranging from **bending of borders** to **_background image_**, **_styled fonts_** and **_eye-soothing layout_**.
   - The `CSS` file checks in all the requisites for empowerment of the graphical interface
+  
 - **JavaScript** :
   - It contains the **back-end** component and provides an **efficient algorithm** for the game.
   - The _algorithm_ is executed using simple `Data-Structures` like `Arrays` and basic concepts of `Functions` and `Loops`.
@@ -46,11 +49,11 @@ The game contains two web pages namely, _Home (index.html)_ and _Instruction (Bu
 ### Screenshots of the WebPage :
 
 #### Home Page
-<img width="900" alt="home1" src="https://user-images.githubusercontent.com/76843281/104738719-e3ce5700-576b-11eb-9408-7a36c5953aa2.png">
+<img width="900" alt="home1" src="https://user-images.githubusercontent.com/66675130/105459190-d1927280-5caf-11eb-9f10-55bbec0e4c8c.png">
 
 #### Instructions
-<img width="900" alt="instruction1" src="https://user-images.githubusercontent.com/76843281/104738719-e3ce5700-576b-11eb-9408-7a36c5953aa2.png">
+<img width="900" alt="instruction1" src="https://user-images.githubusercontent.com/66675130/105459239-e969f680-5caf-11eb-8e64-88b80a544bde.png">
 
 #### Gameplay
-<img width="900" alt="gp1" src="https://user-images.githubusercontent.com/76843281/104738719-e3ce5700-576b-11eb-9408-7a36c5953aa2.png">
-<img width="900" alt="gp2" src="https://user-images.githubusercontent.com/76843281/104738719-e3ce5700-576b-11eb-9408-7a36c5953aa2.png">
+<img width="900" alt="gp1" src="https://user-images.githubusercontent.com/66675130/105459124-b6bffe00-5caf-11eb-974a-46c24671e8b2.png">
+<img width="900" alt="gp2" src="https://user-images.githubusercontent.com/66675130/105458955-72346280-5caf-11eb-91c3-7be093e35d3b.png">
