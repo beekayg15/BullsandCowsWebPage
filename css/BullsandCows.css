@@ -54,7 +54,7 @@ th{
 td{
 	color: #00000063;
 }
-main{
+#main{
 	display: none;
 }
 #win{
@@ -64,13 +64,13 @@ main{
 details{
 	background: #00000063;
 	padding: 5px;
-	color: #000000;
+	color: black;
 	border: solid;
 	border-width: 0px;
 	border-radius: 10px;
 }
 summary{
-	color: #FFFFFF;
+	color: black;
 }
 summary:hover{
 	color: #00000063;
