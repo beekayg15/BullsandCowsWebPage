@@ -3,6 +3,14 @@ Page Deployment Link: https://barathkumarbk-15.github.io/BullsandCowsWebPage
 ***
 An **interactive webpage** bringing to life, the digital version of the primitive **Bulls and Cows game**, created using `HTML`, `CSS` and `JavaScript`.
 
+## Tools and Languages Used :
+<p>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="48" height="48" hspace="10" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
+<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg"/>
+</p>
+
 ## Components of Project :
 - **HTML** files - 2
 - **CSS** files - 1
