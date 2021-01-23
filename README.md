@@ -11,12 +11,6 @@ An **interactive webpage** bringing to life, the digital version of the primitiv
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg"/>
 </p>
 
-## Components of Project :
-- **HTML** files - 2
-- **CSS** files - 1
-- **JavaScript** files - 1
-- Various **Images** that emphasize the **_graphical component_** in a seperate folder
-
 ## Download and Usage :
 The code can be downloaded as a compressed `zip` file from the github web interface.
 
@@ -26,6 +20,12 @@ git clone https://github.com/BarathKumarBK-15/BullsandCowsWebPage.git
 ```
 
 The game can be deployed locally after extraction by opening the `index.html` file in any compatible browser.
+
+## Components of Project :
+- **HTML** files - 2
+- **CSS** files - 1
+- **JavaScript** files - 1
+- Various **Images** that emphasize the **_graphical component_** in a seperate folder
 
 ## About the Webpage :
 The game contains two web pages namely, _Home (index.html)_ and _Instruction (BullsandCowsIn.html)_, which together provide a simple yet elegant interface for the gameplay. The basic algorithm of the game is coded using `JavaScript` in _BullsandCows.js_ file. 
